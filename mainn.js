@@ -122,6 +122,7 @@ function draw() {
             }
         }
     }
+
     main.innerHTML = mainInnerHTML;
 };
 
